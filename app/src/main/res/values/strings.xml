@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EmployeesMVP</string>
+    <string name="label_name">Имя:</string>
+    <string name="label_last_name">Фамилия:</string>
+    <string name="label_birthday">Дата рождения:</string>
+</resources>
